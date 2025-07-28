@@ -21,7 +21,6 @@ This repository contains code for training and evaluating an object detection mo
 - [Setup](#setup)
 - [Usage](#usage)
 - [Evaluation](#evaluation)
-- [License](#license)
 - [References](#references)
 
 ## Prerequisites
@@ -59,7 +58,7 @@ Recall: Evaluated across different epochs.
 Confusion Matrix: Provides insights into model's classification performance.
 
 
-References:
+## References:
 [1]	https://www.youtube.com/watch?v=dvOK-nYtrGI  
 [2]	https://pypi.org/project/rfdetr/ 
 [3]	https://universe.roboflow.com/microsoft/coco 
